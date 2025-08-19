@@ -1,178 +1,83 @@
-<!-- 🚀 VRUSHABH GILLARKAR - AI/ML DEVELOPER & FULL STACK ENTHUSIAST -->
+# 🚀 VRUSHABH GILLARKAR - AI/ML DEVELOPER & FULL STACK ENTHUSIAST
+
 <div align="center">
-  
-  <!-- Modern Gradient Background Header -->
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px 0; box-shadow: 0 20px 40px rgba(0,0,0,0.1);">
-    
-    <!-- Animated Header with Typing Effect -->
-    <h1 align="center" style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); margin-bottom: 20px;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=ffffff&center=true&vCenter=true&width=700&height=90&lines=Hello%2C%20I'm%20Vrushabh%20Gillarkar;AI%20%26%20ML%20Developer;Full%20Stack%20Enthusiast;Building%20Intelligent%20Solutions;Innovating%20with%20Technology" alt="Typing intro" />
-    </h1>
 
-    <!-- Profile Image with Enhanced Glowing Effect -->
-    <div align="center" style="margin: 20px 0;">
-      <img src="https://github.com/VrushabhGillarkar/VrushabhGillarkar/blob/main/aimlhead-DnJrBk2d.png" alt="Vrushabh Gillarkar" width="220" style="border-radius: 50%; box-shadow: 0 0 30px rgba(255,255,255,0.5), 0 0 60px rgba(255,255,255,0.3); border: 4px solid rgba(255,255,255,0.2);" />
-    </div>
+## Hello, I'm Vrushabh Gillarkar! 👋
 
-    <!-- Animated Subtitle with Modern Typography -->
-    <p align="center" style="margin: 20px 0;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=2500&color=ffffff&center=true&vCenter=true&width=700&height=35&lines=Passionate%20about%20AI%20%26%20Machine%20Learning;Building%20intelligent%20web%20applications%20with%20cutting-edge%20technology;Exploring%20the%20frontiers%20of%20artificial%20intelligence;Creating%20innovative%20solutions%20for%20tomorrow" alt="Subtitle" />
-    </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=ffffff&center=true&vCenter=true&width=700&height=90&lines=Hello%2C%20I'm%20Vrushabh%20Gillarkar;AI%20%26%20ML%20Developer;Full%20Stack%20Enthusiast;Building%20Intelligent%20Solutions;Innovating%20with%20Technology" alt="Typing intro" />
 
-  </div>
+### Profile Image
+<img src="https://raw.githubusercontent.com/VrushabhGillarkar/VrushabhGillarkar/main/aimlhead-DnJrBk2d.png" alt="Vrushabh Gillarkar" width="220" />
 
-  <!-- Modern Contact Badges with Enhanced Styling -->
-  <div align="center" style="margin: 30px 0;">
-    <a href="mailto:vrushabhgillarkar29@gmail.com">
-      <img src="https://img.shields.io/badge/Email-vrushabhgillarkar29%40gmail.com-ff3b3b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff3b3b" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/vrushabh-gillarkar">
-      <img src="https://img.shields.io/badge/LinkedIn-Vrushabh%20Gillarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/VrushabhGillarkar">
-      <img src="https://img.shields.io/badge/GitHub-VrushabhGillarkar-111?style=for-the-badge&logo=github&logoColor=white&labelColor=111" alt="GitHub" />
-    </a>
-    <a href="tel:+919322520275">
-      <img src="https://img.shields.io/badge/Phone-%2B91%209322520275-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Phone" />
-    </a>
-  </div>
+### Animated Subtitle
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=2500&color=ffffff&center=true&vCenter=true&width=700&height=35&lines=Passionate%20about%20AI%20%26%20Machine%20Learning;Building%20intelligent%20web%20applications%20with%20cutting-edge%20technology;Exploring%20the%20frontiers%20of%20artificial%20intelligence;Creating%20innovative%20solutions%20for%20tomorrow" alt="Subtitle" />
 
-  <!-- Enhanced Profile Views Counter -->
-  <div align="center" style="margin: 20px 0;">
-    <img src="https://visitcount.itsvg.in/api?id=VrushabhGillarkar&label=Profile%20Views&color=667eea&icon=5&pretty=true" alt="Profile Views" />
-  </div>
+### Contact Information 📞
+
+[![Email](https://img.shields.io/badge/Email-vrushabhgillarkar29%40gmail.com-ff3b3b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff3b3b)](mailto:vrushabhgillarkar29@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vrushabh%20Gillarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/vrushabh-gillarkar)
+[![GitHub](https://img.shields.io/badge/GitHub-VrushabhGillarkar-111?style=for-the-badge&logo=github&logoColor=white&labelColor=111)](https://github.com/VrushabhGillarkar)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%209322520275-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](tel:+919322520275)
+
+### Profile Views 👀
+<img src="https://visitcount.itsvg.in/api?id=VrushabhGillarkar&label=Profile%20Views&color=667eea&icon=5&pretty=true" alt="Profile Views" />
 
 </div>
 
-<!-- Modern Animated Divider -->
-<div align="center" style="margin: 30px 0;">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" />
-</div>
+---
 
-<!-- 🎯 ABOUT ME SECTION with Modern Card Design -->
-<div align="center">
-  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 30px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1); border: 1px solid rgba(255,255,255,0.2);">
-    <h2 align="center" style="margin-bottom: 25px;">
-      <img src="https://img.shields.io/badge/About%20Me-667eea?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About Me" />
-    </h2>
-    
-    <div align="center">
-      <table style="background: white; border-radius: 15px; padding: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
-        <tr>
-          <td style="padding: 10px;">🎓</td>
-          <td style="padding: 10px;"><strong>Education:</strong> B.Tech in AI & ML at RTMN University (CGPA: 8.1)</td>
-        </tr>
-        <tr>
-          <td style="padding: 10px;">📍</td>
-          <td style="padding: 10px;"><strong>Location:</strong> Nagpur, Maharashtra, India</td>
-        </tr>
-        <tr>
-          <td style="padding: 10px;">🔭</td>
-          <td style="padding: 10px;"><strong>Currently:</strong> Data Analytics Trainer & Assistant Manager at HOTIT Institute</td>
-        </tr>
-        <tr>
-          <td style="padding: 10px;">🌱</td>
-          <td style="padding: 10px;"><strong>Learning:</strong> Advanced AI/ML, Computer Vision, Deep Learning, NLP</td>
-        </tr>
-        <tr>
-          <td style="padding: 10px;">👯</td>
-          <td style="padding: 10px;"><strong>Collaboration:</strong> AI/ML projects, web development, data analytics</td>
-        </tr>
-        <tr>
-          <td style="padding: 10px;">💬</td>
-          <td style="padding: 10px;"><strong>Expertise:</strong> Python, Machine Learning, Django, Flask, Data Analytics</td>
-        </tr>
-        <tr>
-          <td style="padding: 10px;">⚡</td>
-          <td style="padding: 10px;"><strong>Fun Fact:</strong> Exploring the frontiers of artificial intelligence! 🚀</td>
-        </tr>
-      </table>
-    </div>
-  </div>
-</div>
+## 🎯 About Me
 
-<!-- 🛠️ TECHNICAL SKILLS SECTION with Enhanced Visual Design -->
-<div align="center">
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px 0; box-shadow: 0 20px 40px rgba(0,0,0,0.15);">
-    <h2 align="center" style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); margin-bottom: 25px;">
-      <img src="https://img.shields.io/badge/Technical%20Skills-ffffff?style=for-the-badge&logo=skills&logoColor=667eea" alt="Technical Skills" />
-    </h2>
-    
-    <!-- AI/ML Head Image with Enhanced Styling -->
-    <div align="center" style="margin: 25px 0;">
-      <img src="https://github.com/VrushabhGillarkar/VrushabhGillarkar/blob/main/aimlhead-DnJrBk2d.png" alt="AI/ML Enthusiast" width="320" style="border-radius: 20px; box-shadow: 0 0 40px rgba(255,255,255,0.4), 0 0 80px rgba(255,255,255,0.2); border: 3px solid rgba(255,255,255,0.3);" />
-    </div>
-  </div>
-</div>
+<img src="https://img.shields.io/badge/About%20Me-667eea?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About Me" />
 
-<!-- Programming Languages with Modern Card Design -->
-<div align="center">
-  <div style="background: white; padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1); border: 1px solid rgba(102,126,234,0.1);">
-    <h3 align="center" style="color: #667eea; margin-bottom: 20px; font-size: 24px;">🖥️ Programming Languages</h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python" />
-      <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff&style=for-the-badge" alt="C" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="SQL" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript" />
-    </p>
-  </div>
-</div>
+| 🎓 **Education** | B.Tech in AI & ML at RTMN University (CGPA: 8.1) |
+| 📍 **Location** | Nagpur, Maharashtra, India |
+| 🔭 **Currently** | Data Analytics Trainer & Assistant Manager at HOTIT Institute |
+| 🌱 **Learning** | Advanced AI/ML, Computer Vision, Deep Learning, NLP |
+| 👯 **Collaboration** | AI/ML projects, web development, data analytics |
+| 💬 **Expertise** | Python, Machine Learning, Django, Flask, Data Analytics |
+| ⚡ **Fun Fact** | Exploring the frontiers of artificial intelligence! 🚀 |
 
-<!-- Web Development Frameworks with Gradient Background -->
-<div align="center">
-  <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
-    <h3 align="center" style="color: white; margin-bottom: 20px; font-size: 24px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🌐 Web Development</h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge" alt="Django" />
-      <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff&style=for-the-badge" alt="Flask" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge" alt="Bootstrap" />
-    </p>
-  </div>
-</div>
+## 🛠️ Technical Skills
 
-<!-- Machine Learning & AI with Modern Design -->
-<div align="center">
-  <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
-    <h3 align="center" style="color: white; margin-bottom: 20px; font-size: 24px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🤖 Machine Learning & AI</h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge" alt="Scikit-learn" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff&style=for-the-badge" alt="OpenCV" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=000&style=for-the-badge" alt="YOLO" />
-      <img src="https://img.shields.io/badge/BERT-000000?logo=bert&logoColor=fff&style=for-the-badge" alt="BERT" />
-    </p>
-  </div>
-</div>
+<img src="https://img.shields.io/badge/Technical%20Skills-ffffff?style=for-the-badge&logo=skills&logoColor=667eea" alt="Technical Skills" />
 
-<!-- Data Science Libraries with Enhanced Styling -->
-<div align="center">
-  <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
-    <h3 align="center" style="color: white; margin-bottom: 20px; font-size: 24px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">📊 Data Science</h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge" alt="NumPy" />
-      <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge" alt="Pandas" />
-      <img src="https://img.shields.io/badge/NLTK-000000?logo=nltk&logoColor=fff&style=for-the-badge" alt="NLTK" />
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=fff&style=for-the-badge" alt="Matplotlib" />
-      <img src="https://img.shields.io/badge/SQLAlchemy-000000?logo=sqlalchemy&logoColor=fff&style=for-the-badge" alt="SQLAlchemy" />
-    </p>
-  </div>
-</div>
+### AI/ML Enthusiast 🤖
+<img src="https://raw.githubusercontent.com/VrushabhGillarkar/VrushabhGillarkar/main/aimlhead-DnJrBk2d.png" alt="AI/ML Enthusiast" width="320" />
 
-<!-- Databases & Analytics with Modern Card -->
-<div align="center">
-  <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
-    <h3 align="center" style="color: #333; margin-bottom: 20px; font-size: 24px;">🗄️ Databases & Analytics</h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge" alt="SQLite" />
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge" alt="SQL Server" />
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge" alt="Power BI" />
-      <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge" alt="Tableau" />
-    </p>
-  </div>
-</div>
+### 🖥️ Programming Languages
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python" />
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff&style=for-the-badge" alt="C" />
+<img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="SQL" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript" />
+
+### 🌐 Web Development
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge" alt="Django" />
+<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff&style=for-the-badge" alt="Flask" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge" alt="Bootstrap" />
+
+### 🤖 Machine Learning & AI
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff&style=for-the-badge" alt="OpenCV" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge" alt="PyTorch" />
+<img src="https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=000&style=for-the-badge" alt="YOLO" />
+<img src="https://img.shields.io/badge/BERT-000000?logo=bert&logoColor=fff&style=for-the-badge" alt="BERT" />
+
+### 📊 Data Science
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge" alt="Pandas" />
+<img src="https://img.shields.io/badge/NLTK-000000?logo=nltk&logoColor=fff&style=for-the-badge" alt="NLTK" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=fff&style=for-the-badge" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/SQLAlchemy-000000?logo=sqlalchemy&logoColor=fff&style=for-the-badge" alt="SQLAlchemy" />
+
+### 🗄️ Databases & Analytics
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge" alt="SQLite" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge" alt="SQL Server" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge" alt="Power BI" />
+<img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge" alt="Tableau" />
 
 <!-- 🚀 EXPERIENCE SECTION with Enhanced Design -->
 <div align="center">
@@ -220,71 +125,55 @@
   </div>
 </div>
 
-<!-- 🎯 FEATURED PROJECTS SECTION with Modern Cards -->
+<!-- 🎯 FEATURED PROJECTS SECTION - Modern & Stylish -->
 <div align="center">
-  <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 30px; border-radius: 20px; margin: 20px 0; box-shadow: 0 20px 40px rgba(0,0,0,0.15);">
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px 0; box-shadow: 0 20px 40px rgba(0,0,0,0.15);">
     <h2 align="center" style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); margin-bottom: 25px;">
-      <img src="https://img.shields.io/badge/Featured%20Projects-ffffff?style=for-the-badge&logo=projects&logoColor=f093fb" alt="Featured Projects" />
+      <img src="https://img.shields.io/badge/Featured%20Projects-ffffff?style=for-the-badge&logo=projects&logoColor=667eea" alt="Featured Projects" />
     </h2>
     
-    <!-- Project Cards with Enhanced Styling -->
-    <div align="center">
+    <!-- Modern Project Grid -->
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 20px;">
       
-      <!-- Data Download Duplication Alert System -->
-      <details open style="margin: 15px 0;">
-        <summary style="cursor: pointer; background: white; padding: 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
-          <h3 style="color: #f093fb; margin: 0; font-size: 22px;">🔍 Data Download Duplication Alert System</h3>
-        </summary>
-        <div align="center" style="background: rgba(255,255,255,0.9); margin-top: 15px; padding: 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
-          <p><strong>Advanced system for detecting duplicate data downloads using BERT embeddings and SQLAlchemy</strong></p>
-          <p><strong>Technologies:</strong> Flask, Python, SQLAlchemy, Scikit-learn, BERT</p>
-          <p><strong>Features:</strong> Intelligent duplicate detection, BERT embeddings, database integration</p>
-          <p><strong>Year:</strong> 2025</p>
-          <p>🔗 <a href="#" style="color: #f093fb; text-decoration: none; font-weight: bold;">Live Demo</a> | 📁 <a href="#" style="color: #f093fb; text-decoration: none; font-weight: bold;">Source Code</a></p>
+      <!-- Project 1: Data Duplication Alert -->
+      <div style="background: rgba(255,255,255,0.95); border-radius: 15px; padding: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); transition: transform 0.3s ease; border: 2px solid rgba(255,255,255,0.2);">
+        <h3 style="color: #667eea; margin: 0 0 15px 0; font-size: 18px; text-align: center;">🔍 Data Duplication Alert</h3>
+        <p style="margin: 10px 0; font-size: 14px; color: #666;"><strong>BERT + SQLAlchemy</strong></p>
+        <p style="margin: 10px 0; font-size: 13px; color: #888;">AI-powered duplicate detection system</p>
+        <div style="margin-top: 15px; text-align: center;">
+          <span style="background: #667eea; color: white; padding: 5px 10px; border-radius: 8px; font-size: 12px;">2025</span>
         </div>
-      </details>
+      </div>
 
-      <!-- Movie Reviews Sentiment Analysis -->
-      <details style="margin: 15px 0;">
-        <summary style="cursor: pointer; background: white; padding: 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
-          <h3 style="color: #f093fb; margin: 0; font-size: 22px;">🎬 Movie Reviews Sentiment Analysis</h3>
-        </summary>
-        <div align="center" style="background: rgba(255,255,255,0.9); margin-top: 15px; padding: 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
-          <p><strong>ML-powered sentiment analysis system for movie reviews using Naive Bayes and TF-IDF</strong></p>
-          <p><strong>Technologies:</strong> Flask, Scikit-learn, NLTK, HTML/CSS/JS, Joblib</p>
-          <p><strong>Features:</strong> Real-time predictions, NLP preprocessing, AJAX integration</p>
-          <p><strong>Year:</strong> 2025</p>
-          <p>🔗 <a href="#" style="color: #f093fb; text-decoration: none; font-weight: bold;">Live Demo</a> | 📁 <a href="#" style="color: #f093fb; text-decoration: none; font-weight: bold;">Source Code</a></p>
+      <!-- Project 2: Sentiment Analysis -->
+      <div style="background: rgba(255,255,255,0.95); border-radius: 15px; padding: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); transition: transform 0.3s ease; border: 2px solid rgba(255,255,255,0.2);">
+        <h3 style="color: #667eea; margin: 0 0 15px 0; font-size: 18px; text-align: center;">🎬 Sentiment Analysis</h3>
+        <p style="margin: 10px 0; font-size: 14px; color: #666;"><strong>ML + NLP</strong></p>
+        <p style="margin: 10px 0; font-size: 13px; color: #888;">Real-time movie review classification</p>
+        <div style="margin-top: 15px; text-align: center;">
+          <span style="background: #667eea; color: white; padding: 5px 10px; border-radius: 8px; font-size: 12px;">2025</span>
         </div>
-      </details>
+      </div>
 
-      <!-- Real Time Object Detection -->
-      <details style="margin: 15px 0;">
-        <summary style="cursor: pointer; background: white; padding: 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
-          <h3 style="color: #f093fb; margin: 0; font-size: 22px;">👁️ Real Time Object Detection</h3>
-        </summary>
-        <div align="center" style="background: rgba(255,255,255,0.9); margin-top: 15px; padding: 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
-          <p><strong>Web application for live video streaming with YOLOv8 object detection and classification</strong></p>
-          <p><strong>Technologies:</strong> Python, Flask, OpenCV, PyTorch, YOLOv8, NumPy</p>
-          <p><strong>Features:</strong> Live video streaming, real-time detection, YOLOv8n integration</p>
-          <p><strong>Year:</strong> 2025</p>
-          <p>🔗 <a href="#" style="color: #f093fb; text-decoration: none; font-weight: bold;">Live Demo</a> | 📁 <a href="#" style="color: #f093fb; text-decoration: none; font-weight: bold;">Source Code</a></p>
+      <!-- Project 3: Object Detection -->
+      <div style="background: rgba(255,255,255,0.95); border-radius: 15px; padding: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); transition: transform 0.3s ease; border: 2px solid rgba(255,255,255,0.2);">
+        <h3 style="color: #667eea; margin: 0 0 15px 0; font-size: 18px; text-align: center;">👁️ Object Detection</h3>
+        <p style="margin: 10px 0; font-size: 14px; color: #666;"><strong>YOLOv8 + OpenCV</strong></p>
+        <p style="margin: 10px 0; font-size: 13px; color: #888;">Live video object detection</p>
+        <div style="margin-top: 15px; text-align: center;">
+          <span style="background: #667eea; color: white; padding: 5px 10px; border-radius: 8px; font-size: 12px;">2025</span>
         </div>
-      </details>
+      </div>
 
-      <!-- ShareSphere -->
-      <details style="margin: 15px 0;">
-        <summary style="cursor: pointer; background: white; padding: 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
-          <h3 style="color: #f093fb; margin: 0; font-size: 22px;">🌐 ShareSphere</h3>
-        </summary>
-        <div align="center" style="background: rgba(255,255,255,0.9); margin-top: 15px; padding: 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
-          <p><strong>Campus-centric resource sharing platform with marketplace, borrowing, and chat features</strong></p>
-          <p><strong>Technologies:</strong> HTML, CSS, JavaScript, Bootstrap, Django, MySQL, SMTP, WhatsApp API</p>
-          <p><strong>Features:</strong> User authentication, marketplace, borrowing system, chat functionality</p>
-          <p><strong>Year:</strong> 2024</p>
-          <p>🔗 <a href="#" style="color: #f093fb; text-decoration: none; font-weight: bold;">Live Demo</a> | 📁 <a href="#" style="color: #f093fb; text-decoration: none; font-weight: bold;">Source Code</a></p>
+      <!-- Project 4: ShareSphere -->
+      <div style="background: rgba(255,255,255,0.95); border-radius: 15px; padding: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); transition: transform 0.3s ease; border: 2px solid rgba(255,255,255,0.2);">
+        <h3 style="color: #667eea; margin: 0 0 15px 0; font-size: 18px; text-align: center;">🌐 ShareSphere</h3>
+        <p style="margin: 10px 0; font-size: 14px; color: #666;"><strong>Django + MySQL</strong></p>
+        <p style="margin: 10px 0; font-size: 13px; color: #888;">Campus resource sharing platform</p>
+        <div style="margin-top: 15px; text-align: center;">
+          <span style="background: #667eea; color: white; padding: 5px 10px; border-radius: 8px; font-size: 12px;">2024</span>
         </div>
-      </details>
+      </div>
 
     </div>
   </div>
