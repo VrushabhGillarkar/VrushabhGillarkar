@@ -87,7 +87,7 @@
 ## 🛠️ **Technical Skills**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VrushabhGillarkar/VrushabhGillarkar/main/aimlhead-DnJrBk2d.png" alt="AI/ML Enthusiast" width="300" />
+  <img src="https://raw.githubusercontent.com/VrushabhGillarkar/VrushabhGillarkar/dd1a734dd8e3b943de79fb7a2f3470b7a8926cb5/How-Machine-Learning-and-Artificial-Intelligence-Will-Impact-Global-Industries-in-2020-removebg-preview.png" alt="AI/ML Impact on Global Industries" width="400" />
 </div>
 
 ### 🖥️ **Programming Languages**
