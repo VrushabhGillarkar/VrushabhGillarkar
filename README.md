@@ -1,46 +1,37 @@
-<!-- 🚀 VRUSHABH GILLARKAR - AI/ML DEVELOPER & DATA ANALYTICS SPECIALIST -->
 <div align="center">
   
-  <!-- Enhanced Animated Header with Typing Effect -->
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 25px; margin: 20px 0; box-shadow: 0 20px 40px rgba(0,0,0,0.15);">
-    <h1 align="center" style="margin: 0; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=ffffff&center=true&vCenter=true&width=700&height=90&lines=Hello%2C%20I'm%20Vrushabh%20Gillarkar;AI%20%26%20ML%20Developer;Data%20Analytics%20Specialist;Building%20Intelligent%20Solutions" alt="Typing intro" />
-    </h1>
-  </div>
+  <!-- Animated Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=90&lines=Hello%2C%20I'm%20Vrushabh%20Gillarkar;AI%20%26%20ML%20Developer;Data%20Analytics%20Specialist;Building%20Intelligent%20Solutions" alt="Typing intro" />
+
+  <!-- Animated Subtitle -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=2000&color=FF6B6B&center=true&vCenter=true&width=800&height=40&lines=Passionate%20about%20AI%20%26%20Machine%20Learning;Transforming%20data%20into%20actionable%20insights%20with%20Power%20BI;Exploring%20the%20frontiers%20of%20data%20analytics;Creating%20data-driven%20solutions%20for%20business%20growth" alt="Subtitle" />
+
+  <!-- 3D Boy Character Image and Portfolio Button -->
+  <img src="https://raw.githubusercontent.com/VrushabhGillarkar/VrushabhGillarkar/0f66bffe4b6c3372a5f784bdb2cea6d829e592f0/pngtree-3d-boy-character-playing-laptop-with-laughing-png-image_13442178-removebg-preview.png" alt="3D Boy Character Playing Laptop" width="250" />
+  
+  <a href="https://vrushabhgillarkarpotfolio20.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=portfolio&logoColor=white&labelColor=FF6B6B" alt="Portfolio" />
+  </a>
+
+  <!-- Social Media Buttons - Vertical List -->
+  <br>
+  <a href="mailto:vrushabhgillarkar29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vrushabhgillarkar29%40gmail.com-ff3b3b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff3b3b" alt="Email" />
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/vrushabh-gillarkar">
+    <img src="https://img.shields.io/badge/LinkedIn-Vrushabh%20Gillarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <br>
+  <a href="https://github.com/VrushabhGillarkar">
+    <img src="https://img.shields.io/badge/GitHub-VrushabhGillarkar-111?style=for-the-badge&logo=github&logoColor=white&labelColor=111" alt="GitHub" />
+  </a>
+  <br>
+  <a href="tel:+919322520275">
+    <img src="https://img.shields.io/badge/Phone-%2B91%209322520275-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Phone" />
+  </a>
 
 
-
-  <!-- Enhanced Animated Subtitle -->
-  <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
-    <p align="center" style="margin: 0; color: white; font-size: 22px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=2000&color=ffffff&center=true&vCenter=true&width=700&height=35&lines=Passionate%20about%20AI%20%26%20Machine%20Learning;Transforming%20data%20into%20actionable%20insights%20with%20Power%20BI;Exploring%20the%20frontiers%20of%20data%20analytics;Creating%20data-driven%20solutions%20for%20business%20growth" alt="Subtitle" />
-    </p>
-  </div>
-
-  <!-- Enhanced Contact Badges with Hover Effects -->
-  <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
-    <div align="center">
-      <a href="mailto:vrushabhgillarkar29@gmail.com">
-        <img src="https://img.shields.io/badge/Email-vrushabhgillarkar29%40gmail.com-ff3b3b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff3b3b" alt="Email" />
-      </a>
-      <a href="https://www.linkedin.com/in/vrushabh-gillarkar">
-        <img src="https://img.shields.io/badge/LinkedIn-Vrushabh%20Gillarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
-      </a>
-      <a href="https://github.com/VrushabhGillarkar">
-        <img src="https://img.shields.io/badge/GitHub-VrushabhGillarkar-111?style=for-the-badge&logo=github&logoColor=white&labelColor=111" alt="GitHub" />
-      </a>
-      <a href="tel:+919322520275">
-        <img src="https://img.shields.io/badge/Phone-%2B91%209322520275-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Phone" />
-      </a>
-    </div>
-  </div>
-
-  <!-- Enhanced Profile Views Counter -->
-  <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 20px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
-    <p align="center" style="margin: 0;">
-      <img src="https://visitcount.itsvg.in/api?id=VrushabhGillarkar&label=Profile%20Views&color=667eea&icon=5&pretty=true" alt="Profile Views" />
-    </p>
-  </div>
 
 </div>
 
@@ -93,81 +84,52 @@
 
 ---
 
-<!-- 🛠️ TECHNICAL SKILLS SECTION -->
-<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 30px; border-radius: 25px; margin: 20px 0; box-shadow: 0 20px 40px rgba(0,0,0,0.15);">
-  <div align="center">
-    <h2 align="center" style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); margin-bottom: 25px;">
-      <img src="https://img.shields.io/badge/Technical%20Skills-ffffff?style=for-the-badge&logo=skills&logoColor=fa709a" alt="Technical Skills" />
-    </h2>
-    
-    <!-- AI/ML Head Image -->
-    <div align="center" style="margin: 20px 0;">
-      <img src="https://raw.githubusercontent.com/VrushabhGillarkar/VrushabhGillarkar/main/aimlhead-DnJrBk2d.png" alt="AI/ML Enthusiast" width="300" style="border-radius: 20px; box-shadow: 0 0 30px rgba(255,255,255,0.4); border: 3px solid rgba(255,255,255,0.3);" />
-    </div>
-  </div>
-</div>
+## 🛠️ **Technical Skills**
 
-<!-- Programming Languages -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
-  <div align="center">
-    <h3 align="center" style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); margin-bottom: 20px;">🖥️ Programming Languages</h3>
-    <p align="center" style="margin: 0;">
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python" />
-      <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff&style=for-the-badge" alt="C" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="SQL" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript" />
-    </p>
-  </div>
-</div>
-
-<!-- Data Analytics Tools -->
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
-  <div align="center">
-    <h3 align="center" style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); margin-bottom: 20px;">📊 Data Analytics Tools</h3>
-    <p align="center" style="margin: 0;">
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge" alt="Power BI" />
-      <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge" alt="Tableau" />
-      <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=fff&style=for-the-badge" alt="Excel" />
-    </p>
-  </div>
-</div>
-
-<!-- Machine Learning & AI -->
 <div align="center">
-  <h3 align="center">🤖 Machine Learning & AI</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge" alt="Scikit-learn" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff&style=for-the-badge" alt="OpenCV" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=000&style=for-the-badge" alt="YOLO" />
-    <img src="https://img.shields.io/badge/BERT-000000?logo=bert&logoColor=fff&style=for-the-badge" alt="BERT" />
-  </p>
+  <img src="https://raw.githubusercontent.com/VrushabhGillarkar/VrushabhGillarkar/main/aimlhead-DnJrBk2d.png" alt="AI/ML Enthusiast" width="300" />
 </div>
 
-<!-- Data Science & Analytics -->
+### 🖥️ **Programming Languages**
 <div align="center">
-  <h3 align="center">📊 Data Science & Analytics</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge" alt="NumPy" />
-    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge" alt="Pandas" />
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=fff&style=for-the-badge" alt="Matplotlib" />
-    <img src="https://img.shields.io/badge/Seaborn-000000?logo=seaborn&logoColor=fff&style=for-the-badge" alt="Seaborn" />
-    <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=for-the-badge" alt="Plotly" />
-  </p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff&style=for-the-badge" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript" />
 </div>
 
-<!-- Databases & Cloud -->
+### 🤖 **Machine Learning & AI**
 <div align="center">
-  <h3 align="center">🗄️ Databases & Analytics</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge" alt="SQLite" />
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge" alt="SQL Server" />
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge" alt="Power BI" />
-    <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge" alt="Tableau" />
-  </p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff&style=for-the-badge" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=000&style=for-the-badge" alt="YOLO" />
+  <img src="https://img.shields.io/badge/BERT-000000?logo=bert&logoColor=fff&style=for-the-badge" alt="BERT" />
+</div>
+
+### 📊 **Data Science & Analytics**
+<div align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=fff&style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-000000?logo=seaborn&logoColor=fff&style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=for-the-badge" alt="Plotly" />
+</div>
+
+### 📈 **Data Analytics Tools**
+<div align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=fff&style=for-the-badge" alt="Excel" />
+</div>
+
+### 🗄️ **Databases**
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge" alt="SQLite" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge" alt="SQL Server" />
 </div>
 
 <!-- 🚀 EXPERIENCE SECTION -->
