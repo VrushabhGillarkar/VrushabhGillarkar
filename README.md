@@ -1,38 +1,46 @@
 <!-- 🚀 VRUSHABH GILLARKAR - AI/ML DEVELOPER & DATA ANALYTICS SPECIALIST -->
 <div align="center">
   
-  <!-- Animated Header with Typing Effect -->
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=Hello%2C%20I'm%20Vrushabh%20Gillarkar;AI%20%26%20ML%20Developer;Data%20Analytics%20Specialist;Building%20Intelligent%20Solutions" alt="Typing intro" />
-  </h1>
+  <!-- Enhanced Animated Header with Typing Effect -->
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 25px; margin: 20px 0; box-shadow: 0 20px 40px rgba(0,0,0,0.15);">
+    <h1 align="center" style="margin: 0; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=ffffff&center=true&vCenter=true&width=700&height=90&lines=Hello%2C%20I'm%20Vrushabh%20Gillarkar;AI%20%26%20ML%20Developer;Data%20Analytics%20Specialist;Building%20Intelligent%20Solutions" alt="Typing intro" />
+    </h1>
+  </div>
 
 
 
-  <!-- Animated Subtitle -->
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=2000&color=8B8B8B&center=true&vCenter=true&width=600&height=30&lines=Passionate%20about%20AI%20%26%20Machine%20Learning;Transforming%20data%20into%20actionable%20insights%20with%20Power%20BI;Exploring%20the%20frontiers%20of%20data%20analytics;Creating%20data-driven%20solutions%20for%20business%20growth" alt="Subtitle" />
-  </p>
+  <!-- Enhanced Animated Subtitle -->
+  <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
+    <p align="center" style="margin: 0; color: white; font-size: 22px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=2000&color=ffffff&center=true&vCenter=true&width=700&height=35&lines=Passionate%20about%20AI%20%26%20Machine%20Learning;Transforming%20data%20into%20actionable%20insights%20with%20Power%20BI;Exploring%20the%20frontiers%20of%20data%20analytics;Creating%20data-driven%20solutions%20for%20business%20growth" alt="Subtitle" />
+    </p>
+  </div>
 
-  <!-- Contact Badges with Hover Effects -->
-<div align="center">
-    <a href="mailto:vrushabhgillarkar29@gmail.com">
-      <img src="https://img.shields.io/badge/Email-vrushabhgillarkar29%40gmail.com-ff3b3b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff3b3b" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/vrushabh-gillarkar">
-      <img src="https://img.shields.io/badge/LinkedIn-Vrushabh%20Gillarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/VrushabhGillarkar">
-      <img src="https://img.shields.io/badge/GitHub-VrushabhGillarkar-111?style=for-the-badge&logo=github&logoColor=white&labelColor=111" alt="GitHub" />
-    </a>
-    <a href="tel:+919322520275">
-      <img src="https://img.shields.io/badge/Phone-%2B91%209322520275-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Phone" />
-    </a>
-</div>
+  <!-- Enhanced Contact Badges with Hover Effects -->
+  <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
+    <div align="center">
+      <a href="mailto:vrushabhgillarkar29@gmail.com">
+        <img src="https://img.shields.io/badge/Email-vrushabhgillarkar29%40gmail.com-ff3b3b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff3b3b" alt="Email" />
+      </a>
+      <a href="https://www.linkedin.com/in/vrushabh-gillarkar">
+        <img src="https://img.shields.io/badge/LinkedIn-Vrushabh%20Gillarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+      </a>
+      <a href="https://github.com/VrushabhGillarkar">
+        <img src="https://img.shields.io/badge/GitHub-VrushabhGillarkar-111?style=for-the-badge&logo=github&logoColor=white&labelColor=111" alt="GitHub" />
+      </a>
+      <a href="tel:+919322520275">
+        <img src="https://img.shields.io/badge/Phone-%2B91%209322520275-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Phone" />
+      </a>
+    </div>
+  </div>
 
-  <!-- Profile Views Counter -->
-<p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=VrushabhGillarkar&label=Profile%20Views&color=00D4FF&icon=5&pretty=true" alt="Profile Views" />
-  </p>
+  <!-- Enhanced Profile Views Counter -->
+  <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 20px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
+    <p align="center" style="margin: 0;">
+      <img src="https://visitcount.itsvg.in/api?id=VrushabhGillarkar&label=Profile%20Views&color=667eea&icon=5&pretty=true" alt="Profile Views" />
+    </p>
+  </div>
 
 </div>
 
@@ -48,74 +56,82 @@
   </h2>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>🎓</td>
-      <td><strong>Education:</strong> B.Tech in AI & ML at RTMN University (CGPA: 8.1)</td>
-    </tr>
-    <tr>
-      <td>📍</td>
-      <td><strong>Location:</strong> Nagpur, Maharashtra, India</td>
-    </tr>
-    <tr>
-      <td>🔭</td>
-      <td><strong>Currently:</strong> Data Analytics Trainer & Assistant Manager at HOTIT Institute</td>
-    </tr>
-    <tr>
-      <td>🌱</td>
-      <td><strong>Learning:</strong> Advanced AI/ML, Computer Vision, Deep Learning, NLP</td>
-    </tr>
-    <tr>
-      <td>👯</td>
-      <td><strong>Collaboration:</strong> AI/ML projects, web development, data analytics</td>
-    </tr>
-    <tr>
-      <td>💬</td>
-      <td><strong>Expertise:</strong> Python, Machine Learning, Power BI, Data Analytics, SQL</td>
-    </tr>
-    <tr>
-      <td>⚡</td>
-      <td><strong>Fun Fact:</strong> Exploring the frontiers of artificial intelligence! 🚀</td>
-    </tr>
-  </table>
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 25px; margin: 20px 0; box-shadow: 0 20px 40px rgba(0,0,0,0.15);">
+  <div align="center">
+    <table style="color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">
+      <tr>
+        <td style="font-size: 24px; padding: 10px;">🎓</td>
+        <td style="font-size: 18px; padding: 10px;"><strong>Education:</strong> B.Tech in AI & ML at RTMNU University (CGPA: 8.1)</td>
+      </tr>
+      <tr>
+        <td style="font-size: 24px; padding: 10px;">📍</td>
+        <td style="font-size: 18px; padding: 10px;"><strong>Location:</strong> Nagpur, Maharashtra, India</td>
+      </tr>
+      <tr>
+        <td style="font-size: 24px; padding: 10px;">🔭</td>
+        <td style="font-size: 18px; padding: 10px;"><strong>Currently:</strong> Data Analytics Trainer & Assistant Manager at HOTIT Institute</td>
+      </tr>
+      <tr>
+        <td style="font-size: 24px; padding: 10px;">🌱</td>
+        <td style="font-size: 18px; padding: 10px;"><strong>Learning:</strong> Advanced AI/ML, Computer Vision, Deep Learning, NLP</td>
+      </tr>
+      <tr>
+        <td style="font-size: 24px; padding: 10px;">👯</td>
+        <td style="font-size: 18px; padding: 10px;"><strong>Collaboration:</strong> AI/ML projects, web development, data analytics</td>
+      </tr>
+      <tr>
+        <td style="font-size: 24px; padding: 10px;">💬</td>
+        <td style="font-size: 18px; padding: 10px;"><strong>Expertise:</strong> Python, Machine Learning, Power BI, Data Analytics, SQL</td>
+      </tr>
+      <tr>
+        <td style="font-size: 24px; padding: 10px;">⚡</td>
+        <td style="font-size: 18px; padding: 10px;"><strong>Fun Fact:</strong> Exploring the frontiers of artificial intelligence! 🚀</td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 ---
 
 <!-- 🛠️ TECHNICAL SKILLS SECTION -->
-<div align="center">
-  <h2 align="center">
-    <img src="https://img.shields.io/badge/Technical%20Skills-00D4FF?style=for-the-badge&logo=skills&logoColor=white" alt="Technical Skills" />
-  </h2>
-  
-  <!-- AI/ML Head Image -->
-  <div align="center" style="margin: 20px 0;">
-    <img src="https://raw.githubusercontent.com/VrushabhGillarkar/VrushabhGillarkar/main/aimlhead-DnJrBk2d.png" alt="AI/ML Enthusiast" width="300" style="border-radius: 15px; box-shadow: 0 0 25px rgba(0, 212, 255, 0.3);" />
+<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 30px; border-radius: 25px; margin: 20px 0; box-shadow: 0 20px 40px rgba(0,0,0,0.15);">
+  <div align="center">
+    <h2 align="center" style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); margin-bottom: 25px;">
+      <img src="https://img.shields.io/badge/Technical%20Skills-ffffff?style=for-the-badge&logo=skills&logoColor=fa709a" alt="Technical Skills" />
+    </h2>
+    
+    <!-- AI/ML Head Image -->
+    <div align="center" style="margin: 20px 0;">
+      <img src="https://raw.githubusercontent.com/VrushabhGillarkar/VrushabhGillarkar/main/aimlhead-DnJrBk2d.png" alt="AI/ML Enthusiast" width="300" style="border-radius: 20px; box-shadow: 0 0 30px rgba(255,255,255,0.4); border: 3px solid rgba(255,255,255,0.3);" />
+    </div>
   </div>
 </div>
 
 <!-- Programming Languages -->
-<div align="center">
-  <h3 align="center">🖥️ Programming Languages</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python" />
-    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff&style=for-the-badge" alt="C" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="SQL" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript" />
-  </p>
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
+  <div align="center">
+    <h3 align="center" style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); margin-bottom: 20px;">🖥️ Programming Languages</h3>
+    <p align="center" style="margin: 0;">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python" />
+      <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff&style=for-the-badge" alt="C" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="SQL" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript" />
+    </p>
+  </div>
 </div>
 
 <!-- Data Analytics Tools -->
-<div align="center">
-  <h3 align="center">📊 Data Analytics Tools</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge" alt="Power BI" />
-    <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge" alt="Tableau" />
-    <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=fff&style=for-the-badge" alt="Excel" />
-  </p>
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
+  <div align="center">
+    <h3 align="center" style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); margin-bottom: 20px;">📊 Data Analytics Tools</h3>
+    <p align="center" style="margin: 0;">
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge" alt="Power BI" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge" alt="Tableau" />
+      <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=fff&style=for-the-badge" alt="Excel" />
+    </p>
+  </div>
 </div>
 
 <!-- Machine Learning & AI -->
@@ -203,38 +219,36 @@
 ## 🎯 **Featured Projects**
 
 <div align="center">
-
-![Featured Projects](https://img.shields.io/badge/Featured%20Projects-667eea?style=for-the-badge&logo=projects&logoColor=white)
+  <img src="https://img.shields.io/badge/Featured%20Projects-667eea?style=for-the-badge&logo=projects&logoColor=white" alt="Featured Projects" />
+</div>
 
 ---
 
 ### 🔍 **Data Duplication Alert**
-**Tech Stack:** BERT + SQLAlchemy  
-**Description:** AI-powered duplicate detection system  
-**Year:** 2025
+> **Tech Stack:** `BERT` + `SQLAlchemy`  
+> **Description:** AI-powered duplicate detection system  
+> **Year:** `2025` | **Status:** 🟢 Active
 
 ---
 
 ### 🎬 **Sentiment Analysis**  
-**Tech Stack:** ML + NLP  
-**Description:** Real-time movie review classification  
-**Year:** 2025
+> **Tech Stack:** `ML` + `NLP`  
+> **Description:** Real-time movie review classification  
+> **Year:** `2025` | **Status:** 🟢 Active
 
 ---
 
 ### 👁️ **Object Detection**
-**Tech Stack:** YOLOv8 + OpenCV  
-**Description:** Live video object detection  
-**Year:** 2025
+> **Tech Stack:** `YOLOv8` + `OpenCV`  
+> **Description:** Live video object detection  
+> **Year:** `2025` | **Status:** 🟢 Active
 
 ---
 
 ### 🌐 **ShareSphere**
-**Tech Stack:** Django + MySQL  
-**Description:** Campus resource sharing platform  
-**Year:** 2024
-
-</div>
+> **Tech Stack:** `Django` + `MySQL`  
+> **Description:** Campus resource sharing platform  
+> **Year:** `2024` | **Status:** 🟡 Completed
 
 <!-- 📊 GITHUB STATS SECTION -->
 <div align="center">
